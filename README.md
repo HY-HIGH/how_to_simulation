@@ -1,4 +1,11 @@
 # Reinforcement Selfie Drone 시뮬레이션 및 학습
+    작성일 : 2019 11월 25일
+    작성자 : 황인재 
+
+    최종 수정 : 2019년 12월 8일
+
+---  
+
 ## 0. 시작 환경
 - ssd_people_detector_ros 설치
   
